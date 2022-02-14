@@ -9,4 +9,4 @@ należało przeanalizować strukturę danych oraz określić sposób pozyskania 
 Dane nie były jednoznaczne i analiza ich nie była zdaniem łattwym dlatego też metodą prób i błędów próbowano znaleźć algotyrm z dziedziny uczenia maszynowego aby pozyskać informację o zepsutych rowerach 
 Najlepszym rozwiązaniem okazało się użycie metody Outlier-ów i dzięki temu opracowano wyniki.
 
-Więcej kontentu oraz zastosowane metody można znaleźć wprost w notebooku.
+Więcej kontentu oraz zastosowane metody można znaleźć wprost w [Notebooku](https://github.com/Ruddini/Destroyed_Bike/blob/main/Zepsuty%20Rower%20-%20program%20glowny.ipynb) .
